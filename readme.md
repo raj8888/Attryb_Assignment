@@ -110,4 +110,4 @@ GET/api/getspecs
 ## Tech Stack:
 - HTML, CSS, React.js, JavaScript, Chakra UI, Redux UI.
 
-- Live Demo: [buy-cars-company.netlify.app](buy-cars-company.netlify.app)
+- Live Demo: [https://buy-cars-company.netlify.app/](https://buy-cars-company.netlify.app/)
